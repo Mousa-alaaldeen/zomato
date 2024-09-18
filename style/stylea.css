@@ -1,0 +1,58 @@
+.bg-img{
+    width: 100vw;
+    height:50vh;
+    filter: brightness(0,6);
+    position: absolute; 
+    z-index: -1;
+}
+.text{
+    color: white;
+}
+
+
+/* .dvfdLt .contents-wrapper {
+    position: absolute;
+    bottom: calc(50% - 11.1rem);
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+}
+div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+body, button, input, input::placeholder {
+    font-family:"Okra, Helvetica, sans-serif";
+}
+.text-bold{
+    font-size: 90px;
+font-weight: bold;
+}
+.border{
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.navbar {
+    display: inline-block;
+    width: auto;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .container-fluid {
+    /* display: inline-block; */
+    /* width: auto; */
+  /* } */
+ .color-gray{
+    color: #828282 ;
+ }
+
+
+ 
